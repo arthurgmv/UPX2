@@ -1,0 +1,65 @@
+/*Código feito por Arthur Gabriel https://github.com/arthurgmv*/
+
+#title {
+    padding: 2rem;
+    text-align: center;
+
+}
+
+.corpo {
+    background-color: #dfe2fe;
+}
+
+.corpo h1 {
+    color: #5e57e1;
+    padding-top: 2rem;
+}
+
+.corpo h3 {
+    color: #5e57e1;
+    }
+.corpo p {
+    color: #5e57e1;
+}
+
+nav {
+background-color: #b1cbfa;
+font-weight: bolder;
+}
+
+
+#grupo {
+    font-size: 16pt;
+    padding-top: 2rem;
+    font-weight: bold;
+    display: flex;
+}
+
+#searchResults {
+    margin-top: 50%;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.footer {
+    background-color: #b1cbfa;
+    padding: 1rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer a {
+    color: #37309FFF;
+    text-decoration: none;
+}
+
+#carrosel {
+    width: 300px;
+    height: 200px;
+    align-items: center;
+    align-content: center;
+
+}
