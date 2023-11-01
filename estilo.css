@@ -63,3 +63,41 @@ font-weight: bolder;
     align-content: center;
 
 }
+
+#tituloDados {
+    color: #5e57e1;
+    padding-top: 2rem;
+
+}
+
+#dados {
+    margin: 0 auto; /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o conteúdo */
+    max-width: 900px; /* Defina a largura máxima desejada */
+}
+
+.footer {
+    background-color: #b1cbfa;
+    padding: 1rem 0;
+    text-align: center;
+    font-weight: bold;
+    color: #37309FFF;
+}
+
+.footer a {
+    color: #37309FFF;
+    text-decoration: none;
+}
+
+.footer p {
+    margin: 0;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
